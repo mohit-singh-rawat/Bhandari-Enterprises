@@ -1,0 +1,6 @@
+export const UsersActionTypes = {
+
+    LOGIN_USERS: 'LOGIN_USERS',
+    LOGIN_USERS_SUCCESS: 'LOGIN_SUCCESS',
+    LOGIN_USERS_ERROR: 'LOGIN_ERROR',
+};
